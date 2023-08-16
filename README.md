@@ -11,10 +11,6 @@ We've designed the React 360 developer experience to get your first project up a
 
 Next, install the React 360 CLI – a command-line tool that generates the basic layout of new projects.
 
-```
-npm install -g react-360-cli
-```
-
 Or
 
 ```
