@@ -6,8 +6,6 @@ React 360 is a framework for the creation of interactive 360 experiences that ru
 
 We've designed the React 360 developer experience to get your first project up and running in only a few minutes. Before installing the developer tools, you'll need to make sure that you have two prerequisites installed:
 
-- Node.js version 6.0.0 or higher
-- `yarn` or `npm` (>= v3.0.0) package managers
 
 Next, install the React 360 CLI – a command-line tool that generates the basic layout of new projects.
 
